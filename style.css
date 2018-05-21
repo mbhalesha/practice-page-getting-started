@@ -1,0 +1,8 @@
+/*connect css file to index.html file in the head link
+ <link rel="stylesheet" type="text/css" href="style.css"*/
+ 
+ body {
+     background-color: blue;
+ }
+
+ 
